@@ -1,0 +1,12 @@
+<?php $this->load->view("defaults/header");?>
+
+<div style="margin:30px;line-height:35px;">
+<h1>Download Font<h1>
+<a style="color:#ef303e;" href="http://opensource.com.pk/Jameel Noori Nastaleeq.ttf" title="Download Font">Please download this font and place it inside your '<span style="color:#333">C:\Windows\Fonts</span>' folder. And thats all, you are ready to go!</a>
+<h1>About Us</h1>
+<p>Urdu Notepad was stitched together by <a href="http://opensource.com.pk/waqas/" alt="Check out his profile">Waqas Ahmed</a> who is a partner at <a href="http://opensource.com.pk/"> Opensource Pakistan.</a></p>
+<h1>About Urdu Notepad</h1>
+<p>Urdu notepad was written because I could not find a simple Urdu Pastebin online. It is based upon <a href="https://github.com/claudehohl/Stikked">Stikked</a> and <a href="https://developers.google.com/transliterate/">Google Transliterate API.</a> <a href="http://opensource.com.pk/urdu-notepad.zip">You can download the source.</a></p>
+</div>
+
+<?php $this->load->view("defaults/footer");?>
